@@ -37,9 +37,6 @@ const Index = () => {
             <Button leftIcon={<FaEnvelope />} colorScheme="green" variant="solid">
               <Link href="mailto:info@angelinvestments.com" isExternal>Email Us</Link>
             </Button>
-            <Button leftIcon={<FaPhone />} colorScheme="red" variant="solid">
-              +123 456 7890
-            </Button>
           </VStack>
         </Box>
       </VStack>

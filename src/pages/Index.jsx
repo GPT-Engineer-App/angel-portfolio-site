@@ -3,7 +3,7 @@ import { FaLinkedin, FaEnvelope, FaPhone } from 'react-icons/fa';
 
 const Index = () => {
   return (
-    <Box as="main" minH="100vh" p={8} bg="gray.50">
+    <Box as="main" pt="60px" minH="100vh" p={8} bg="gray.50">
       <VStack spacing={10} align="stretch">
         <Box as="section" bg="white" boxShadow="md" p={8} borderRadius="lg">
           <Heading as="h1" size="xl" textAlign="center">Angel Investments</Heading>
